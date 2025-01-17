@@ -73,6 +73,8 @@ node task-cli.js list in-progress
 
 ```sh
 node task-cli.js add "Finish the project"
+task-cli mark-done 1
+task-cli mark-in-progress 1
 node task-cli.js list
 node task-cli.js list done
 ```
