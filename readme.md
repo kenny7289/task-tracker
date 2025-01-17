@@ -10,7 +10,7 @@ This is a simple command-line interface (CLI) application for managing tasks. Yo
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/kenny7289/task-tracker.git
     cd <repository-directory>
     ```
 
