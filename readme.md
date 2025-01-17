@@ -36,12 +36,12 @@ node task-cli.js delete <task-id>
 
 ### Mark a Task as In-Progress
 ```sh
-node task-cli.js in-progress <task-id>
+node task-cli.js mark-in-progress <task-id>
 ```
 
 ### Mark a Task as Done
 ```sh
-node task-cli.js done <task-id>
+node task-cli.js mark-done <task-id>
 ```
 
 ### List All Tasks

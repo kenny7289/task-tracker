@@ -118,10 +118,10 @@ switch (action) {
     case 'delete':
         deleteTask(parseInt(args[0]));
         break;
-    case 'in-progress':
+    case 'mark-in-progress':
         markTaskInProgress(parseInt(args[0]));
         break;
-    case 'done':
+    case 'mark-done':
         markTaskAsDone(parseInt(args[0]));
         break;
     case 'list':
