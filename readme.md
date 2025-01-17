@@ -73,7 +73,3 @@ task-cli mark-in-progress 1
 node task-cli.js list
 node task-cli.js list done
 ```
-
-## License
-
-This project is licensed under the MIT License.
