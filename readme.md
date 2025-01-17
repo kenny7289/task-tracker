@@ -5,7 +5,6 @@ This is a simple command-line interface (CLI) application for managing tasks. Yo
 ## Prerequisites
 
 - Node.js (version 12 or higher)
-- npm (Node Package Manager)
 
 ## Installation
 
@@ -15,10 +14,6 @@ This is a simple command-line interface (CLI) application for managing tasks. Yo
     cd <repository-directory>
     ```
 
-2. Install the dependencies:
-    ```sh
-    npm install
-    ```
 
 ## Usage
 
