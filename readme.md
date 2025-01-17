@@ -1,6 +1,7 @@
 # Task CLI
 
 This is a simple command-line interface (CLI) application for managing tasks. You can add, update, delete, and list tasks, as well as mark them as done or in-progress.
+Project url: "https://roadmap.sh/projects/task-tracker"
 
 ## Prerequisites
 
